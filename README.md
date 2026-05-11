@@ -128,7 +128,7 @@ Address | Value | Instruction
 ---
 
 ## 👤 Author
-
+Fagadeanu Rares-Stefan
 Built as a computer architecture learning project.
 
 ---
